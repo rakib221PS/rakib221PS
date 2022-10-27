@@ -1,5 +1,4 @@
 - 👋 Hi, I’m MD RAKIB HASAN
-- 👀 I’m interested in DATA SCIENCE
 - 🌱 I’m currently learning DATA STRUCTURE and I am a react developer(https://github.com/Rakib221)
 
 <!---
